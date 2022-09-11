@@ -1,0 +1,16 @@
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\bin\Debug\ReviewerWindowsSetUpWPF.exe.config
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\bin\Debug\ReviewerWindowsSetUpWPF.exe
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\bin\Debug\ReviewerWindowsSetUpWPF.pdb
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\obj\Debug\ReviewerWindowsSetUpWPF.csproj.AssemblyReference.cache
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\obj\Debug\ReviewerWindowsSetUpWPF.csproj.SuggestedBindingRedirects.cache
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\obj\Debug\MainWindow.g.cs
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\obj\Debug\App.g.cs
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\obj\Debug\ReviewerWindowsSetUpWPF_MarkupCompile.cache
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\obj\Debug\MainWindow.baml
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\obj\Debug\ReviewerWindowsSetUpWPF.g.resources
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\obj\Debug\ReviewerWindowsSetUpWPF.Properties.Resources.resources
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\obj\Debug\ReviewerWindowsSetUpWPF.csproj.GenerateResource.cache
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\obj\Debug\ReviewerWindowsSetUpWPF.csproj.CoreCompileInputs.cache
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\obj\Debug\ReviewerWindowsSetUpWPF.exe
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\obj\Debug\ReviewerWindowsSetUpWPF.pdb
+D:\Projects\ReviewerWindowsSetUpWPF\ReviewerWindowsSetUpWPF\obj\Debug\ReviewerWindowsSetUpWPF_MarkupCompile.lref
